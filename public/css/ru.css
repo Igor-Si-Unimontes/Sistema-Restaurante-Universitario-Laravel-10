@@ -18,7 +18,18 @@ body {
     color: #fff !important;
     border-color: #fff;
 }
-
+.btn-principal {
+    background-color:#29166F ;
+    padding: 10px;
+    border-color: #29166F;
+    color: #fff !important;
+    border-radius: 10px;
+}
+.btn-principal:hover{
+    background-color:#fff ;
+    color: #29166F !important;
+    border-color: #29166F;
+}
 
 .txt-branco {
     color: #fff;
@@ -66,3 +77,7 @@ body {
 .bg-fundo{
     background-color:#29166F;
  }
+ .bg-menu{
+    background-color: #E6E6E6;
+ }
+ 
